@@ -5,6 +5,4 @@ dependencies:
 - python
 - biopython
 - rdkit
-- pandas
-- tqdm
 - pip - peptides - propy3

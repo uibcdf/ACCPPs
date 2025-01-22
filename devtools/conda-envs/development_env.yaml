@@ -5,8 +5,6 @@ dependencies:
 - python
 - biopython
 - rdkit
-- pandas
-- tqdm
 - pip - peptides - propy3
 - pytest
 - pytest-cov

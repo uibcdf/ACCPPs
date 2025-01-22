@@ -22,6 +22,9 @@ requires-python = ">=3.10.0,<3.13.0"
 # Declare any run-time dependencies that should be installed with the package.
 dependencies = [
     "rdkit",
+    "biopython",
+    "peptides",
+    "propy3"
 ]
 
 # Update the urls once the hosting is set up.
