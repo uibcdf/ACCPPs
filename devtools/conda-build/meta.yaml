@@ -1,0 +1,34 @@
+package:
+  name: accpps
+  version: "{{ environ['GIT_DESCRIBE_TAG'] }}"
+source:
+  path: ../../
+build:
+  number: 1
+requirements:
+  build:
+  - python
+  - pip
+  - setuptools >=61.0
+  - versioningit ~=2.0
+  run:
+  - python
+  - biopython
+  - rdkit
+  - pip
+host:
+  - python
+  - pip
+run_constrained:
+  - pip:
+    - propy3
+    - peptides
+about:
+  home: https://uibcdf.org
+  license: MIT License
+  summary: ''
+  description: 'This library provides some tools to predict anticancer cell penetrating peptides.
+
+    '
+  dev_url: https://github.com/uibcdf/ACCPPs
+  doc_url: https://uibcdf.org/ACCPPs

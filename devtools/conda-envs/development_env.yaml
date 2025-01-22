@@ -1,0 +1,23 @@
+channels:
+- conda-forge
+- default
+dependencies:
+- python
+- biopython
+- rdkit
+- pandas
+- tqdm
+- pip - peptides - propy3
+- pytest
+- pytest-cov
+- pytest-xdist
+- codecov
+- sphinx
+- sphinx_rtd_theme
+- sphinxcontrib-bibtex
+- sphinx-remove-toctrees
+- sphinx-copybutton
+- myst-nb
+- jupyterlab
+- pyyaml
+- mamba

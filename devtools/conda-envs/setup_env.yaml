@@ -1,0 +1,8 @@
+channels:
+- conda-forge
+- default
+dependencies:
+- python
+- pip
+- setuptools >=61.0
+- versioningit ~=2.0

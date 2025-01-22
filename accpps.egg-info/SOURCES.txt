@@ -4,6 +4,7 @@ pyproject.toml
 accpps/__init__.py
 accpps/_version.py
 accpps/get_features.py
+accpps/peptides.py
 accpps.egg-info/PKG-INFO
 accpps.egg-info/SOURCES.txt
 accpps.egg-info/dependency_links.txt

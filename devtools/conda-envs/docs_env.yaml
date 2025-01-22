@@ -1,0 +1,17 @@
+channels:
+- conda-forge
+- default
+dependencies:
+- python
+- biopython
+- rdkit
+- pandas
+- tqdm
+- pip - peptides - propy3
+- sphinx
+- sphinx_rtd_theme
+- sphinxcontrib-bibtex
+- sphinx-remove-toctrees
+- sphinx-copybutton
+- myst-nb
+- jupyterlab

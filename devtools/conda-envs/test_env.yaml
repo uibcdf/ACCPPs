@@ -1,0 +1,14 @@
+channels:
+- conda-forge
+- default
+dependencies:
+- python
+- biopython
+- rdkit
+- pandas
+- tqdm
+- pip - peptides - propy3
+- pytest
+- pytest-cov
+- pytest-xdist
+- codecov
