@@ -41,7 +41,7 @@ sequence = "ACDEFGHIKLMNPQRSTVWY"
 features = accpps.get_features(sequence)
 ```
 
-El objeto de salid `features` es un diccionario con 11097 características físico-químicas.
+El objeto de salida `features` es un diccionario con 11097 características físico-químicas.
 
 Además, la librería contiene 4 listas de secuencias de péptidos:
 
@@ -59,3 +59,6 @@ tu base de datos de péptidos a secuencias con más de 4 amino ácidos.
 
 Tener tu propio fork del repositorio e ir implementando tu abordaje como parte
 de tu versión de tu librería ACCPPs puede ser muy útil si tu propuesta es exitosa.
+
+## Suerte!
+Y muchas gracias por tu ayuda con este proyecto!
