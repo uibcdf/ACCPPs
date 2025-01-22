@@ -17,7 +17,7 @@ Instalamos las dependencias:
 
 ```bash
 conda install mamba
-mamba install -c conda-forge biopython rdkit
+mamba install -c conda-forge biopython rdkit protlearn
 pip install propy3
 pip install peptides
 ```
