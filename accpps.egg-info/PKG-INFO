@@ -1,0 +1,19 @@
+Metadata-Version: 2.2
+Name: accpps
+Version: 1.0.0+1.g7c59c5f
+Summary: Features of peptides
+Author-email: UIBCDF Lab <uibcdf@gmail.com>
+License: MIT
+Project-URL: Source, https://github.com/uibcdf/ACCPPs/
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: <3.13.0,>=3.10.0
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: rdkit
+Provides-Extra: test
+Requires-Dist: pytest>=6.1.2; extra == "test"
+Requires-Dist: pytest-runner; extra == "test"
+
+# ITT
+ITT IIMAS HIMFG
