@@ -233,6 +233,6 @@ def get_features(sequence):
 
     # Flexibility
 
-    features['Flexibility']=analysis.flexibility()
+    #features['Flexibility']=analysis.flexibility()
 
     return features
